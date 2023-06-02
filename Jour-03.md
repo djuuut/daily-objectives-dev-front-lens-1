@@ -2,12 +2,12 @@
 
 ### Mercredi 17/05/2023
 
-* [ ] Création de compte + configuration Github
-* [ ] Installation et configuration de Git
-* [ ] Comprendre le versionning
-* [ ] Comprendre le fonctionnement de Git
-  * [ ] Comprendre le staging de Git
-  * [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+* [x] Création de compte + configuration Github
+* [x] Installation et configuration de Git
+* [x] Comprendre le versionning
+* [x] Comprendre le fonctionnement de Git
+  * [x] Comprendre le staging de Git
+  * [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     * [ ] git init
     * [ ] git add
     * [ ] git status
@@ -17,5 +17,5 @@
     * [ ] git clone
     * [ ] git remote
 * [ ] Faire le parcours Git-it (Nodeschool.io)
-* [ ] Faire ses premiers commits sur les daily objectives
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [x] Faire ses premiers commits sur les daily objectives
+* [x] Faire ses premiers pushs des daily-objectives sur son compte Github
